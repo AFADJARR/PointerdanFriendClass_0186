@@ -38,6 +38,8 @@ int main(){
     cout << "alamat memori c = " << c << endl;
     cout << "cetak c = " << *c << endl;
     c = &b;
-  
+    cout << "alamat memori c = " << c << endl;
+    cout << "cetak c = " << *c << endl;
+
     
 }
